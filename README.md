@@ -33,7 +33,11 @@ I am available for small custom projects involving:
 - Climate and environmental data
 - Research and scientific data workflows
 
-For custom development or collaboration, open an issue in the relevant repository or contact me through my GitHub profile.
+For paid freelance work, you can also view my **LaborX profile**, where work can be arranged through the platform's crypto-based contract and payment system.
+
+👉 **[Hire me on LaborX](https://laborx.com/freelancers/users/id462031)**
+
+For custom development or collaboration outside LaborX, open an issue in the relevant repository or contact me through my GitHub profile.
 
 ## Support My Work
 
