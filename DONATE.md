@@ -32,6 +32,12 @@ DNWqSzEfUzEDbvJ1wVTKG1q7nKPCddjTCY
 - These are public receiving addresses. Never share a seed phrase, private key, password, or recovery code.
 - Cryptocurrency transactions are generally irreversible. Always verify the address and network before sending.
 
+## Paid Freelance Work
+
+If you want to hire me rather than make a donation, you can use my LaborX profile for freelance projects and crypto-based contracts:
+
+👉 **[Hire me on LaborX](https://laborx.com/freelancers/users/id462031)**
+
 ## Other ways to support
 
 - ⭐ Star my GitHub repositories
