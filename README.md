@@ -4,6 +4,14 @@
 
 I work on climate-change impacts, climate and environmental data analysis, scientific research, Python automation, and practical open-source tools.
 
+## 🎥 ClimaVids on YouTube
+
+**ClimaVids** is my public climate and weather media channel, focused on practical and scientific analysis of weather, climate, seasonal forecasts and climate risks, especially for Iran.
+
+👉 **[Watch ClimaVids on YouTube](https://www.youtube.com/@ClimaVids)**
+
+If you arrived here through one of my GitHub projects and want to see the climate analyses, forecast maps and explanatory videos behind the ClimaVids brand, the YouTube channel is the best place to start.
+
 ## What I Do
 
 - 🌍 Climate and environmental data analysis
